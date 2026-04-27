@@ -1,0 +1,23 @@
+# Node
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# BMAD runtime outputs (keep structure, not generated artifacts)
+_bmad-output/
+
+# Claude local config (keep skills and project config)
+.claude/settings.local.json

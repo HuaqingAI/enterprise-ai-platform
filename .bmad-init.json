@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-04-27T06:39:16.496Z",
+  "templateVersion": "1.0.0",
+  "defaultProject": "enterprise-ai-platform",
+  "files": [
+    {
+      "path": "CLAUDE.md",
+      "type": "workspace-claude",
+      "action": "created"
+    },
+    {
+      "path": "enterprise-ai-platform/CLAUDE.md",
+      "type": "project-claude",
+      "action": "created"
+    },
+    {
+      "path": "enterprise-ai-platform/workflow/story-dev-workflow-single-repo.md",
+      "type": "workflow",
+      "action": "created"
+    }
+  ]
+}
